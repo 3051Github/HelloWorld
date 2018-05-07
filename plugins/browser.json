@@ -1,0 +1,73 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "it.alessandrobosi.helloworld"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "it.alessandrobosi.helloworld"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "it.alessandrobosi.helloworld"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "it.alessandrobosi.helloworld"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "it.alessandrobosi.helloworld"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "it.alessandrobosi.helloworld"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "it.alessandrobosi.helloworld"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "it.alessandrobosi.helloworld"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "it.alessandrobosi.helloworld"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "it.alessandrobosi.helloworld"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "it.alessandrobosi.helloworld"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "it.alessandrobosi.helloworld"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "it.alessandrobosi.helloworld"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "it.alessandrobosi.helloworld"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "it.alessandrobosi.helloworld"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "it.alessandrobosi.helloworld"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "it.alessandrobosi.helloworld"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "it.alessandrobosi.helloworld"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "it.alessandrobosi.helloworld"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "it.alessandrobosi.helloworld"
+        }
+    }
+}
